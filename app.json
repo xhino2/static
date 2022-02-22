@@ -33,6 +33,6 @@
      }
   },
   "website": "https://github.com/ki8852/v2ray-heroku-undone",
-  "repository": "https://github.com/xhino2/v2ray-heroku-undone",
+  "repository": "https://github.com/xhino2/static",
   "stack": "container"
  }
